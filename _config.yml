@@ -12,7 +12,7 @@ title                    : "Fintan Hardy"
 title_separator          : "-"
 name                     : &name "Fintan Hardy"
 description              : &description "personal description"
-url                      : https://fintanhardy.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://Natniif/fintanhardy.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Natniif/fintanhardy.github.io"
 
